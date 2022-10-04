@@ -1,5 +1,7 @@
 # ShotBot
-Code and related info for ShotBot
+Code and related info for ShotBot. 
+You control the ender with your pc connected via USB. 
+You will need to change the paths in the python script for your USB devices. 
 
 # Parts used
 
