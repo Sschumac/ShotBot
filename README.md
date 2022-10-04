@@ -17,14 +17,14 @@ https://www.amazon.com/gp/product/B09XH1GYYQ/ref=ppx_yo_dt_b_asin_title_o01_s00?
 USB Switching Relay
 https://www.amazon.com/gp/product/B01CN7E0RQ/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1
 
-ShotGlasses (you may need to tweak the STLs and code if you use different ones)
+Shot Glasses (you may need to tweak the STLs and code if you use different ones)
 https://www.amazon.com/gp/product/B08CGLHL45/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 12V power supply (already had this, mine is adjustable, its about ~1oz/second at 14V)
 
 Ender 3
 
-SuperGlue (for tube to bracket)
+Super Glue (for tube to bracket)
 
 Cup Holder (3MF file included)
 
