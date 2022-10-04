@@ -3,6 +3,9 @@ Code and related info for ShotBot.
 You control the ender with your pc connected via USB. 
 You will need to change the paths in the python script for your USB devices. 
 
+This project uses Poetry for dependency managment, but theres not many so you could also easily install with pip 
+manually.  
+
 # Parts used
 
 5mm ID 7mm OD Silicone tubing ~ 10 ft. 
